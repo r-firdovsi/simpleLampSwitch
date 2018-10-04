@@ -1,0 +1,25 @@
+  #mainSection h1 {
+	text-align: center;
+	color: #c82333;
+	margin-top: 100px;
+}
+
+
+ #mainSection img {
+	position: absolute;
+	margin-top: 100px;
+}
+
+#mainSection #imgoff {
+	display: none;
+}
+
+ #mainSection input {
+	margin-top: 350px;
+	width: 100px;
+}
+
+h6 {
+	text-align: center;
+	padding-top: 40px;
+}
